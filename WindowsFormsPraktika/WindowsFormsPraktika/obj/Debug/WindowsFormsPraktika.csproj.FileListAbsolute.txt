@@ -1,0 +1,15 @@
+E:\Users\Дима\Desktop\диалоговые окна\WindowsFormsPraktika\WindowsFormsPraktika\bin\Debug\WindowsFormsPraktika.exe.config
+E:\Users\Дима\Desktop\диалоговые окна\WindowsFormsPraktika\WindowsFormsPraktika\bin\Debug\WindowsFormsPraktika.exe
+E:\Users\Дима\Desktop\диалоговые окна\WindowsFormsPraktika\WindowsFormsPraktika\bin\Debug\WindowsFormsPraktika.pdb
+E:\Users\Дима\Desktop\диалоговые окна\WindowsFormsPraktika\WindowsFormsPraktika\bin\Debug\GMap.NET.Core.dll
+E:\Users\Дима\Desktop\диалоговые окна\WindowsFormsPraktika\WindowsFormsPraktika\bin\Debug\GMap.NET.WindowsForms.dll
+E:\Users\Дима\Desktop\диалоговые окна\WindowsFormsPraktika\WindowsFormsPraktika\bin\Debug\WebDriver.dll
+E:\Users\Дима\Desktop\диалоговые окна\WindowsFormsPraktika\WindowsFormsPraktika\bin\Debug\WebDriver.Support.dll
+E:\Users\Дима\Desktop\диалоговые окна\WindowsFormsPraktika\WindowsFormsPraktika\obj\Debug\WindowsFormsPraktika.csprojAssemblyReference.cache
+E:\Users\Дима\Desktop\диалоговые окна\WindowsFormsPraktika\WindowsFormsPraktika\obj\Debug\WindowsFormsPraktika.Form1.resources
+E:\Users\Дима\Desktop\диалоговые окна\WindowsFormsPraktika\WindowsFormsPraktika\obj\Debug\WindowsFormsPraktika.Properties.Resources.resources
+E:\Users\Дима\Desktop\диалоговые окна\WindowsFormsPraktika\WindowsFormsPraktika\obj\Debug\WindowsFormsPraktika.csproj.GenerateResource.cache
+E:\Users\Дима\Desktop\диалоговые окна\WindowsFormsPraktika\WindowsFormsPraktika\obj\Debug\WindowsFormsPraktika.csproj.CoreCompileInputs.cache
+E:\Users\Дима\Desktop\диалоговые окна\WindowsFormsPraktika\WindowsFormsPraktika\obj\Debug\WindowsFormsPraktika.csproj.CopyComplete
+E:\Users\Дима\Desktop\диалоговые окна\WindowsFormsPraktika\WindowsFormsPraktika\obj\Debug\WindowsFormsPraktika.exe
+E:\Users\Дима\Desktop\диалоговые окна\WindowsFormsPraktika\WindowsFormsPraktika\obj\Debug\WindowsFormsPraktika.pdb
